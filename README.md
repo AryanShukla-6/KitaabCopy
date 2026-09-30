@@ -1,4 +1,4 @@
-# BookFit — Explainable Technical Book Recommender
+# KitaabCopy — Explainable Technical Book Recommender
 
 A lightweight MVP that recommends the top 3 technical books from:
 - Subject
