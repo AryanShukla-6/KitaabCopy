@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="BookFit", page_icon="📚", layout="centered")
+st.set_page_config(page_title="KitaabCopy", page_icon="📚", layout="centered")
 
 LEVEL_WEIGHT = {"Beginner": 1, "Intermediate": 2, "Expert": 3}
 LEVELS = ["Beginner", "Intermediate", "Expert"]
@@ -13,7 +13,7 @@ def load_data():
 
 df = load_data()
 
-st.title("📚 BookFit")
+st.title("📚 KitaabCopy")
 st.caption("An explainable technical-book recommender built around what you actually want to learn.")
 
 c1, c2, c3 = st.columns(3)
