@@ -19,5 +19,3 @@ The ranking is intentionally explainable instead of asking an LLM to invent reco
 
 The small catalog can later be replaced with Goodreads/Google Books metadata and a semantic retrieval layer.
 
-## Deployment
-Upload these files to GitHub and deploy the repository on Streamlit Community Cloud.
