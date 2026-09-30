@@ -1,0 +1,21 @@
+title,author,subject,level,genre,rating,description
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",Aurélien Géron,Machine Learning,Intermediate,Practical,4.7,"End-to-end practical machine learning with Python, classical ML and deep learning."
+An Introduction to Statistical Learning,"James, Witten, Hastie, Tibshirani",Machine Learning,Beginner,Theoretical,4.6,Accessible statistical learning foundations with practical examples and exercises.
+Pattern Recognition and Machine Learning,Christopher M. Bishop,Machine Learning,Expert,Theoretical,4.5,Mathematical treatment of probabilistic models and machine learning.
+Deep Learning,"Ian Goodfellow, Yoshua Bengio, Aaron Courville",Deep Learning,Expert,Theoretical,4.5,"Comprehensive theory of deep learning, optimization and representation learning."
+Dive into Deep Learning,Aston Zhang et al.,Deep Learning,Intermediate,Practical,4.7,Interactive deep learning book with executable code and implementations.
+Python Crash Course,Eric Matthes,Python,Beginner,Practical,4.6,Hands-on introduction to Python programming through projects.
+Effective Modern C++,Scott Meyers,C++,Intermediate,Practical,4.7,Practical guidance for writing effective modern C++.
+A Tour of C++,Bjarne Stroustrup,C++,Beginner,Theoretical,4.5,Concise overview of modern C++ language and standard library.
+The C++ Programming Language,Bjarne Stroustrup,C++,Expert,Theoretical,4.4,Comprehensive reference and guide to C++.
+Introduction to Algorithms,"Cormen, Leiserson, Rivest, Stein",Algorithms,Intermediate,Theoretical,4.7,Comprehensive algorithms text covering core algorithms and analysis.
+Grokking Algorithms,Aditya Bhargava,Algorithms,Beginner,Practical,4.6,Visual and approachable introduction to common algorithms.
+Designing Data-Intensive Applications,Martin Kleppmann,Distributed Systems,Expert,Theoretical,4.8,"Deep treatment of data systems, storage, replication and distributed architecture."
+Computer Networking: A Top-Down Approach,"Kurose, Ross",Computer Networks,Intermediate,Theoretical,4.6,Conceptual networking coverage from applications down to physical layers.
+Operating System Concepts,"Silberschatz, Galvin, Gagne",Operating Systems,Intermediate,Theoretical,4.5,"Core operating systems concepts including processes, memory and file systems."
+Reinforcement Learning: An Introduction,"Sutton, Barto",Reinforcement Learning,Expert,Theoretical,4.6,Foundational treatment of reinforcement learning concepts and algorithms.
+Evolutionary Optimization Algorithms,Dan Simon,Evolutionary Computing,Expert,Theoretical,4.4,Optimization methods based on evolutionary computation and metaheuristics.
+Hands-On Genetic Algorithms with Python,Eyal Wirsansky,Evolutionary Computing,Intermediate,Practical,4.4,Practical implementation of genetic algorithms in Python.
+Data Science for Business,"Foster Provost, Tom Fawcett",Data Science,Beginner,Practical,4.5,Practical framework for understanding data science and predictive modeling.
+The Elements of Statistical Learning,"Hastie, Tibshirani, Friedman",Machine Learning,Expert,Theoretical,4.6,Advanced statistical learning theory and methods.
+Machine Learning Engineering,Andriy Burkov,Machine Learning,Intermediate,Practical,4.4,Practical perspective on building and deploying machine learning systems.
